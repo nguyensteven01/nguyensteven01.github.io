@@ -23,7 +23,7 @@ repository               : "nguyensteven01/nguyensteven01.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/powell_headshot.jpg"
+  avatar           : "powell_headshot.jpg"
   name             : "Steven's sidebar name"
   pronouns         : "he/him"  
   bio              : "Graduate student at UCSD"
