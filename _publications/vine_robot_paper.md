@@ -1,7 +1,7 @@
 ---
 title: "Large-Scale Vine Robots for Industrial Inspection: Developing a New Framework to Overcome Limitations With Existing Inspection Methods"
 collection: publications
-category: magazines
+category: manuscripts
 permalink: /publication/vine_robot_paper
 excerpt: 'This paper is about the modeling, design, and testing of a novel, large-scale vine robot for industrial pipe inspection.'
 date: 2024-11-20
