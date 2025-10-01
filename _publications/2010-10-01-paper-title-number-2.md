@@ -7,7 +7,7 @@ excerpt: 'This paper is about large-scale vine robots for pipe inspection. The n
 date: 2010-10-01
 venue: 'IEEE Robotics and Automation Magazine'
 slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+paperurl: 'http://nguyensteven01.github.io/files/vine_robots_paper.pdf'
 citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
 
