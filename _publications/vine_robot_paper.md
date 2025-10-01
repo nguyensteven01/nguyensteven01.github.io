@@ -3,8 +3,8 @@ title: "Large-Scale Vine Robots for Industrial Inspection: Developing a New Fram
 collection: publications
 category: manuscripts
 permalink: /publication/vine_robot_paper
-excerpt: 'This paper is about large-scale vine robots for pipe inspection. The number 3 is left for future work.'
-date: 2010-10-01
+excerpt: 'This paper is about the modeling, design, and testing of a novel, large-scale vine robot for industrial pipe inspection.'
+date: 2024-11-20
 venue: 'IEEE Robotics and Automation Magazine'
 slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'http://nguyensteven01.github.io/files/vine_robots_paper.pdf'
