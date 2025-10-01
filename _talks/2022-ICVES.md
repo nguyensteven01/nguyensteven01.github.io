@@ -1,9 +1,9 @@
 ---
-title: "Presentation at 2022 IEEE International Conference on Vehicular Electronics and Safety"
+title: "Talk on Implementation of Pedestrian Braking Algorithm at ICVES"
 collection: talks
 type: "Talk"
 permalink: /talks/2022-ICVES
-venue: "Hotel Sheraton"
+venue: "2022 IEEE International Conference on Vehicular Electronics and Safety"
 date: 2022-11-14
 location: "Bogota, Columbia"
 ---
