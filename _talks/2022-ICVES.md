@@ -1,7 +1,7 @@
 ---
-title: "Talk on Implementation of Pedestrian Braking Algorithm at ICVES"
+title: "ICVES Proceeding talk on Implementation of Pedestrian Braking Algorithm"
 collection: talks
-type: "Talk"
+type: "Conference proceedings talk"
 permalink: /talks/2022-ICVES
 venue: "2022 IEEE International Conference on Vehicular Electronics and Safety"
 date: 2022-11-14
