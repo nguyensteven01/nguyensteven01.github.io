@@ -6,8 +6,8 @@ permalink: /publication/vine_robot_paper
 excerpt: 'This paper is about the modeling, design, and testing of a novel, large-scale vine robot for industrial pipe inspection.'
 date: 2024-11-20
 venue: 'IEEE Robotics and Automation Magazine'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'http://nguyensteven01.github.io/files/vine_robots_paper.pdf'
+bibtexurl: 'http://nguyensteven01.github.io/files/vine_robots.bib'
 citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
 
