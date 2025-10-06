@@ -17,8 +17,6 @@ Industrial facilities such as chemical factories, gas terminals, and power plant
 <!-- Local image (stored in your repo under /assets/images/) -->
 ![Alt text describing image](/files/vine_at_ucsb.png)
 
-<!-- External image
-![A descriptive caption](https://example.com/path/to/image.jpg) -->
+![Figure 2: We tested the vine robot in a pipe at Bechtel's headquarters in Houston, Texas.](/files/vine_in_pipe.png)
+*Figure 3: The vine robot in action!*
 
-<!-- Optional: add size control with HTML -->
-<!-- <img src="/assets/images/example-image.jpg" alt="Description" width="400" style="border-radius: 10px;"> -->
