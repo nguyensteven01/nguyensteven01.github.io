@@ -8,7 +8,17 @@ date: 2024-11-20
 venue: 'IEEE Robotics and Automation Magazine'
 paperurl: 'http://nguyensteven01.github.io/files/vine_robots_paper.pdf'
 bibtexurl: 'http://nguyensteven01.github.io/files/vine_robots.bib'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+citation: 'W. E. Heap et al., "Large-Scale Vine Robots for Industrial Inspection: Developing a New Framework to Overcome Limitations With Existing Inspection Methods," in IEEE Robotics & Automation Magazine, vol. 32, no. 3, pp. 64-75, Sept. 2025, doi: 10.1109/MRA.2024.3487326.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Industrial facilities such as chemical factories, gas terminals, and power plants can contain kilometers of piping that require meticulous inspection for leaks and defects prior to operation. This is a costly and time-consuming process that sometimes requires dismantling sections of pipe. While current internal inspection devices such as borescopes, “pipe inspection gadgets,” rovers, and drones serve specific purposes, none can effectively maneuver through multiple bends with large diameter changes while pulling a tethered sensor. As a first step in addressing this need, we tackled the mobility challenge without a sensor, developing a 33-m-long, 1-m-wide, soft, inflatable vine robot for accessing hard-to-reach spaces in dangerous industrial facilities. We also investigated ways to mount sensors to large-scale vine robots, identified key challenges in doing so, and provide the framework for a potential solution. Our work addresses many modeling, design, and scaling challenges, including frictional properties, gravitational effects, pneumatic control, and portability. To validate the device’s capabilities, we conducted testing at a Bechtel facility in Houston, TX, USA. Our portable device successfully navigated a 24-m-long section of oil and gas piping, negotiating a 90° bend, a vertical section, a blockage, and an open chamber. Our work not only represents a substantial advancement in addressing current pipe navigation challenges but also establishes a new benchmark as the world’s largest soft robot, showcasing the effectiveness of pneumatic principles at large scales.
+
+
+<!-- Local image (stored in your repo under /assets/images/) -->
+![Alt text describing image](/files/vine_at_ucsb.png)
+
+<!-- External image
+![A descriptive caption](https://example.com/path/to/image.jpg) -->
+
+<!-- Optional: add size control with HTML -->
+<!-- <img src="/assets/images/example-image.jpg" alt="Description" width="400" style="border-radius: 10px;"> -->

@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # Currently available options are "default", "air"
+site_theme               : "air" # Currently available options are "default", "air"
 title                    : "Steven's Website"
 title_separator          : "-"
 name                     : &name "Steven Nguyen"
@@ -63,7 +63,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "stevencnguyen01"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username

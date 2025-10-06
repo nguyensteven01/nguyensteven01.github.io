@@ -9,7 +9,9 @@ venue: '2022 IEEE International Conference on Vehicular Electronics and Safety'
 slidesurl: 'http://nguyensteven01.github.io/files/ICVES_presentation.pdf'
 paperurl: 'http://nguyensteven01.github.io/files/pedestrian_braking_paper.pdf'
 bibtexurl: 'http://nguyensteven01.github.io/files/pedestrian_braking.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'S. Nguyen, Z. Rahman and B. T. Morris, "Pedestrian Emergency Braking in Ten Weeks," 2022 IEEE International Conference on Vehicular Electronics and Safety (ICVES), Bogota, Colombia, 2022, pp. 1-6, doi: 10.1109/ICVES56941.2022.9987182'
+
+
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+In the last decade, research in the field of autonomous vehicles has grown immensely, and there is a wealth of information available for researchers to rapidly establish an autonomous vehicle platform for basic maneuvers. In this paper, we design, implement, and test, in ten weeks, a PD approach to longitudinal control for pedestrian emergency braking. We also propose a lateral controller with a similar design for future testing in lane following. Using widely available tools, we demonstrate the safety of the vehicle in pedestrian emergency braking scenarios.
