@@ -24,11 +24,11 @@ repository               : "nguyensteven01/nguyensteven01.github.io"
 author:
   # Biographic information
   avatar           : "powell_headshot.jpg"
-  name             : "Steven's sidebar name"
+  name             : "Steven Nguyen"
   pronouns         : "he/him"  
-  bio              : "Graduate student at UCSD"
+  bio              : "PhD student in Mechanical and Aerospace Engineering at University of California San Diego"
   location         : "San Diego, CA"
-  employer         : "University of California, San Diego"
+  employer         : # "UC San Diego"
   uri              : # URL
   email            : "stn030@ucsd.edu" 
 
