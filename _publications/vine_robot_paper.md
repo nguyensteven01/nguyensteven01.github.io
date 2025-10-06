@@ -20,4 +20,4 @@ Industrial facilities such as chemical factories, gas terminals, and power plant
 *The vine robot in action! Starting from the base station beneath the tent in the lower right of the image, the vine robot grows through the length of the pipe and can be seen growing out of the pipe in the upper left. This image is from tests at Bechtel's facility in Houston, Texas.*
 
 ![Image of the capstone team, together in Houston.](/files/vine_team.png)
-*This paper collected all the results of a year-long capstone project at UCSB. In order from left to right are: Raj, William, Vedad, John, Steven Nguyen (me!), Elvy, and Steven Man.*
+*This paper collected all the results of a year-long capstone project at UCSB. In order from left to right are: Rajveer Oberoi, William Heap, Vedad Bassari, John Chen, Steven Nguyen (me!), Elvy Yao, and Steven Man.*
