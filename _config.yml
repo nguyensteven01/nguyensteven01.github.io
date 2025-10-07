@@ -25,7 +25,7 @@ author:
   # Biographic information
   avatar           : "powell_headshot.jpg"
   name             : "Steven Nguyen"
-  pronouns         : "he/him"  
+  pronouns         : # "he/him"  
   bio              : "PhD student in Mechanical and Aerospace Engineering at University of California San Diego"
   location         : "San Diego, CA"
   employer         : # "UC San Diego"
