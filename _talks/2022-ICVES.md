@@ -10,7 +10,7 @@ location: "Bogota, Columbia"
 
 In this talk, I discussed the contents of my [paper](https://nguyensteven01.github.io/publications/pedestrian_braking) and my implementation of a pedestrian braking algorithm for an autonomous vehicle platform. This was a project that I completed during an REU at UNLV.
 
-[Slides from the talk here:](/files/ICVES_presentation.pdf)
+[Slides from the talk here](/files/ICVES_presentation.pdf)
 
 [More information about 2022 IEEE ICVES here](https://ieeexplore.ieee.org/servlet/opac?punumber=9986509)
 
