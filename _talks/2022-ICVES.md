@@ -14,4 +14,4 @@ In this talk, I discussed the contents of my [paper](https://nguyensteven01.gith
 
 [More information about 2022 IEEE ICVES here](https://ieeexplore.ieee.org/servlet/opac?punumber=9986509)
 
-<!-- Note to self: IF YOU WANT TO USE THE TALKMAPS FEATURE, MUST RE-ENABLE THE WORKFLOW scrape_talks.yaml in .github/workflows >
+<!-- <!-- Note to self: IF YOU WANT TO USE THE TALKMAPS FEATURE, MUST RE-ENABLE THE WORKFLOW scrape_talks.yaml in .github/workflows > -->

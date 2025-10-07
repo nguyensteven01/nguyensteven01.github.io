@@ -2,7 +2,7 @@
 title: "Pedestrian Emergency Braking in Ten Weeks"
 collection: publications
 category: conferences
-permalink: /publication/pedestrian_braking
+permalink: /publications/pedestrian_braking
 excerpt: 'This paper is about an implementation of a pedestrian detection and braking scheme I applied to an autonomous vehicle during an NSF REU at UNLV.'
 date: 2022-11-14
 venue: '2022 IEEE International Conference on Vehicular Electronics and Safety'
