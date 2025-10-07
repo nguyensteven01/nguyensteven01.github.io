@@ -64,10 +64,8 @@ Service and leadership
 ======
 * Currently signed in to 43 different slack teams
 -->
-<!-- <embed src="https://github.com/cnick1/CV/raw/master/main.pdf" width="600px" height="500px" /> -->
-<!-- <iframe src="https://docs.google.com/gview?url=https://github.com/nguyensteven01/CV/raw/master/main.pdf&embedded=true" 
-style="width:100%;height:1100px;" 
-frameborder="0"></iframe> -->
+
+<!-- This will embed my CV and also provide a download link. -->
 
 <iframe src="https://docs.google.com/gview?url=https://github.com/nguyensteven01/nguyensteven01.github.io/raw/master/files/CV.pdf&embedded=true" 
 style="width:100%;height:1100px;" 
