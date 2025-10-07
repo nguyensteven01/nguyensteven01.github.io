@@ -10,4 +10,7 @@ location: "Fort Worth, TX, USA"
 
 [More information about 2025 SIAM CSE here](https://www.siam.org/conferences-events/past-event-archive/cse25/)
 
-This is a description of your talk, which is a markdown file that can be all markdown-ified like any other post. Yay markdown!
+In this talk, I discussed results on semidefinite programming for linear control design and a potential extension to nonlinear systems. I presented one of the main hurdles with data-driven control of nonlinear systems in connecting stabilizability of the system to feasibility of the program.
+
+[Slides from the presentation here:](/files/siam_cse_25_slides.pdf)
+
