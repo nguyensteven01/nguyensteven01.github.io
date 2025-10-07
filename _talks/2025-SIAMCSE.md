@@ -10,7 +10,7 @@ location: "Fort Worth, TX, USA"
 
 [More information about 2025 SIAM CSE here](https://www.siam.org/conferences-events/past-event-archive/cse25/)
 
-In this talk, I discussed results on semidefinite programming for linear control design and a potential extension to nonlinear systems. I presented one of the main hurdles with data-driven control of nonlinear systems in connecting stabilizability of the system to feasibility of the program.
+In this talk, I discussed results on semidefinite programming for linear control design and a potential extension to nonlinear systems. I present an investigation of connecting stabilizability of the system to feasibility of the semidefinite program for control design. I also show analysis for specific classes of nonlinear systems.
 
 [Slides from the presentation here:](/files/siam_cse_25_slides.pdf)
 

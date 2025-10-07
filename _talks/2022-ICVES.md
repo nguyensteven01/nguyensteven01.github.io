@@ -12,5 +12,6 @@ location: "Bogota, Columbia"
 
 This is a description of your talk, which is a markdown file that can be all markdown-ified like any other post. Yay markdown!
 
+[Slides from the talk here:](/files/ICVES_presentation.pdf)
 
 <!-- Note to self: IF YOU WANT TO USE THE TALKMAPS FEATURE, MUST RE-ENABLE THE WORKFLOW scrape_talks.yaml in .github/workflows >
