@@ -8,10 +8,10 @@ date: 2022-11-14
 location: "Bogota, Columbia"
 ---
 
-[More information about 2022 IEEE ICVES here](https://ieeexplore.ieee.org/servlet/opac?punumber=9986509)
-
-This is a description of your talk, which is a markdown file that can be all markdown-ified like any other post. Yay markdown!
+In this talk, I discussed the contents of my [paper](https://nguyensteven01.github.io/publications/pedestrian_braking) and my implementation of a pedestrian braking algorithm for an autonomous vehicle platform. This was a project that I completed during an REU at UNLV.
 
 [Slides from the talk here:](/files/ICVES_presentation.pdf)
+
+[More information about 2022 IEEE ICVES here](https://ieeexplore.ieee.org/servlet/opac?punumber=9986509)
 
 <!-- Note to self: IF YOU WANT TO USE THE TALKMAPS FEATURE, MUST RE-ENABLE THE WORKFLOW scrape_talks.yaml in .github/workflows >
