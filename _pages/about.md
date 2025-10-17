@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-![Photo of UCSD campus](/images/UCSD_Images/jacobs.jpeg)
+![Photo of UCSD campus](/images/UCSD_Images/geisel-erik-jepsen.jpg)
 
 
 Hello, my name is Steven Nguyen and I am currently a PhD student at UC San Diego (UCSD) studying control theory. My research is related to topics like data-driven control design, reachability, and control theoretic perspectives for design optimization of aircraft.
