@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Steven's Website Title"
+title                    : "Steven's Website"   # This one shows up in the top left of the page and also in the website name displayed on the browser tab.
 title_separator          : "-"
 name                     : &name "Steven Nguyen"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
