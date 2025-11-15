@@ -11,11 +11,7 @@ redirect_from:
 ![Photo of UCSD campus](/images/UCSD_Images/geisel-erik-jepsen.jpg)
 
 
-<font size="5">Large text</font>
-<font size="2">Small text</font>
-
-
-**About me**
+<font size="7"><b>About me</b></font>
 
 Hello, my name is Steven Nguyen and I am currently a 3rd-year PhD student at UC San Diego (UCSD) studying control theory. My research is related to topics like data-driven control design, reachability, and control theoretic perspectives for design optimization of aircraft. Before coming to UCSD, I received my B.S. in Mechanical Engineering from UC Santa Barbara, where I pursued undergraduate research studying monomial observables for Koopman operator theory.
 
@@ -30,16 +26,16 @@ Hello, my name is Steven Nguyen and I am currently a 3rd-year PhD student at UC 
 
 <!-- As a PhD student at UCSD, I've studied problems related to data-driven control design using semi-definite programming, and control design for reduced order models. At the moment, I am working on developing constraint metrics based on reachability theory to inform design and optimization of aircraft.  -->
 
-**Recent News**
+<font size="7"><b>Recent News</b></font>
 
-**August 2025** 
+<font size="4"><b>August 2025</b></font>
 In August, I got to visit the National Museum of the United States Air Force in Dayton, Ohio. This was part of a trip to the Air Force base there, where I presented on some of my recent research.
 
 ![Air Force Museum](/images/airforcemuseum.jpeg)
 ![F-117 Nighthawk at the museum](/images/nighthawk.jpeg) ![Bockscar at the museum](/images/bockscar.jpeg)
 
 
-**March 2025**
+<font size="4"><b>March 2025</b></font>
 I gave a talk at SIAM Conference on Computational Science and Engineering (CSE 25). Read more about the talk [here](https://nguyensteven01.github.io/talks/2025-SIAMCSE).
 
 **Fun facts**
