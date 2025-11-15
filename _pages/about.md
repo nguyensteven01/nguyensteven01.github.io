@@ -11,11 +11,9 @@ redirect_from:
 ![Photo of UCSD campus](/images/UCSD_Images/geisel-erik-jepsen.jpg)
 
 
-# test
-## test2
-### test3
-#### test4
-#### ** test5 **
+<font size="5">Large text</font>
+<font size="2">Small text</font>
+
 
 **About me**
 
