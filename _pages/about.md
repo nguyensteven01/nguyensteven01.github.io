@@ -13,7 +13,7 @@ redirect_from:
 
 <font size="5"><b>About me</b></font>
 
-Hello, my name is Steven Nguyen and I am currently a 3rd-year PhD student at UC San Diego (UCSD) studying control theory. My research is related to topics like data-driven control design, reachability, and control theoretic perspectives for design optimization of aircraft. Before coming to UCSD, I received my B.S. in Mechanical Engineering from UC Santa Barbara, where I pursued undergraduate research studying monomial observables for Koopman operator theory.
+Hello, my name is Steven Nguyen and I am currently a 3rd-year PhD student at UC San Diego (UCSD) studying control theory, advised by Professors Boris Kramer and Jorge Cortes. My research is related to topics like data-driven control design, reachability, and control theoretic perspectives for design optimization of aircraft. Before coming to UCSD, I received my B.S. in Mechanical Engineering from UC Santa Barbara, where I pursued undergraduate research studying monomial observables for Koopman operator theory.
 
 <font size="5"><b>Research Interests</b></font>
 
@@ -28,6 +28,9 @@ Hello, my name is Steven Nguyen and I am currently a 3rd-year PhD student at UC 
 
 <font size="5"><b>Recent News</b></font>
 <br>
+<font size="4"><b>October 2025</b></font>
+I submitted some of my recent work on reachability metrics in design optimization to ACC!
+
 <font size="4"><b>August 2025</b></font>
 In August, I got to visit the National Museum of the United States Air Force in Dayton, Ohio. This was part of a trip to the Air Force base there, where I presented on some of my recent research.
 
