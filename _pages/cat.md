@@ -5,4 +5,4 @@ permalink: /cat/
 author_profile: true
 ---
 
-cat
+![My cat](/files/beans.jpeg)

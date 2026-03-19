@@ -13,7 +13,7 @@ redirect_from:
 
 <font size="5"><b>About me</b></font>
 
-Hello, my name is Steven Nguyen and I am currently a 3rd-year PhD student at UC San Diego (UCSD) studying control theory, advised by Professors Boris Kramer and Jorge Cortes. My research is related to topics like data-driven control design, reachability, and control theoretic perspectives for design optimization of aircraft. Before coming to UCSD, I received my B.S. in Mechanical Engineering from UC Santa Barbara, where I pursued undergraduate research studying monomial observables for Koopman operator theory.
+Hello, my name is Steven Nguyen and I am currently a 3rd-year PhD student at UC San Diego (UCSD) studying control theory, advised by Professors Boris Kramer and Jorge Cortes. My research is related to topics like data-driven control design, reachability, and control theoretic perspectives for design optimization of aircraft. Before coming to UCSD, I received my B.S. in Mechanical Engineering from UC Santa Barbara, where I pursued undergraduate research studying monomial observables for Koopman operator theory. I have a [cat](https://nguyensteven01.github.io/cat).
 
 <font size="5"><b>Research Interests</b></font>
 
