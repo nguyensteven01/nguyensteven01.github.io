@@ -1,7 +1,7 @@
 ---
 title: "Reachability Analysis for Design Optimization"
 collection: publications
-category: manuscripts
+category: conference
 permalink: /publications/reachability_design_opt_acc
 excerpt: 'This paper is about a sampling-based approach for reachability, applied to a design optimization problem for aircraft.'
 date: 2026-3-19
