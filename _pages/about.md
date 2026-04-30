@@ -28,6 +28,12 @@ Hello, my name is Steven Nguyen and I am currently a 3rd-year PhD student at UC 
 
 <font size="5"><b>Recent News</b></font>
 <br>
+<font size="4"><b>April 2026</b></font>
+I extended the work I did in my ACC paper to consider a more complex case of design optimization for a blended-wing-body aircraft and submitted my work to AIAA Journal.
+
+<font size="4"><b>January 2026</b></font>
+My submission to ACC was accepted! Read more [here](https://nguyensteven01.github.io/publications/reachability_design_opt_acc).
+
 <font size="4"><b>October 2025</b></font>
 I submitted some of my recent work on reachability metrics in design optimization to ACC!
 
