@@ -1,6 +1,7 @@
 ---
-title: "Reachability-Based Design Optimization for Aircraft Maneuverability"
+title: "Reachability-Based Design Optimization for Aircraft Maneuverability (Submitted)"
 collection: publications
+published: false
 category: manuscripts
 permalink: /publications/reachabilitiy_design_opt_aiaa
 excerpt: 'This paper is about our application of reachability-based design optimization to a blended-wing-body aircraft. We submitted this to AIAA Journal in April 2026.'
