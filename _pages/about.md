@@ -20,7 +20,7 @@ Hello, my name is Steven Nguyen and I am currently a 3rd-year PhD student at UC 
 - Data-driven control design
 - Lifting controllers for reduced order models to full order models
 - Reachability theory for aircraft
-- Control theoretic metrics for deisgn optimization
+- Control theoretic metrics for design optimization
 
 <!-- I come from the Bay Area in California and received my B.S. in Mechanical Engineering from UC Santa Barbara (UCSB). While I was an undergraduate student at UCSB, I explored research in the fields of fluid dynamics and materials science before discovering my interest in the study of dynamics and control. As a theoretically-inclined student, the rigorous mathematical formulations and solutions of engineering problems caught my attention immediately. This interest led me to pursue undergraduate research with Professor Igor Mezic, where I studied monomial observables for Koopman operator theory. -->
 
