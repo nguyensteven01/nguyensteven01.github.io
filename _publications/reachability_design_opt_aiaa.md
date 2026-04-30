@@ -5,6 +5,7 @@ category: manuscripts
 permalink: /publications/reachabilitiy_design_opt_aiaa
 excerpt: 'This paper is about our application of reachability-based design optimization to a blended-wing-body aircraft. We submitted this to AIAA Journal in April 2026.'
 date: 2026-04-30
+venue: 'AIAA Journal'
 paperurl: 'https://arxiv.org/abs/2604.26134'
 bibtexurl: 'http://nguyensteven01.github.io/files/AIAA_reachability/reachability_des_opt_aiaa.bib'
 citation: 'S. Nguyen, N. Orndorff, J. Cortés, B. Kramer, "Reachability-Based Design Optimization for Aircraft Maneuverability," 2022 IEEE International Conference on Vehicular Electronics and Safety (ICVES), Bogota, Colombia, 2022, pp. 1-6, doi: 10.1109/ICVES56941.2022.9987182'
