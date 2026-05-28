@@ -14,3 +14,5 @@ citation: 'S. Nguyen, J. Cortes, B. Kramer, "Reachability Analysis for Design Op
 
 We present an approach to approximate reachable sets for linear systems with bounded L-infinity controls in finite time. Our first approach investigates the boundaries of these sets and reveals an exact characterization for single-input, planar systems with real, distinct eigenvalues. The second approach leverages convergence of the Lp-norms to L-infinity and uses Lp-norm reachable sets as an approximation of the L-infinity-norm reachable sets. Our optimal control results yield insights that make computational approximations of the Lp-norm reachable sets more tractable, and yield exact characterizations for L-infinity with the previous assumptions on the system. As an example, we incorporate our reachability analysis into the design optimization of a highly-maneuverable aircraft. Introducing constraints based on reachability allow us to factor physical limitations to desired flight maneuvers into the design process.
 
+I presented this at the 2026 American Control Conference. Read more about this [here](https://nguyensteven01.github.io/talks/2026-ACC).
+

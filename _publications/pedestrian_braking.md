@@ -14,4 +14,4 @@ citation: 'S. Nguyen, Z. Rahman and B. T. Morris, "Pedestrian Emergency Braking 
 
 In the last decade, research in the field of autonomous vehicles has grown immensely, and there is a wealth of information available for researchers to rapidly establish an autonomous vehicle platform for basic maneuvers. In this paper, we design, implement, and test, in ten weeks, a PD approach to longitudinal control for pedestrian emergency braking. We also propose a lateral controller with a similar design for future testing in lane following. Using widely available tools, we demonstrate the safety of the vehicle in pedestrian emergency braking scenarios.
 
-I gave a talk at this conference for this submission, with more information [here](https://nguyensteven01.github.io/talks/2022-ICVES)
+I gave a talk at this conference for this submission, with more information [here](https://nguyensteven01.github.io/talks/2022-ICVES).
