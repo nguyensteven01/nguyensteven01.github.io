@@ -28,6 +28,10 @@ Hello, my name is Steven Nguyen and I am currently a 3rd-year PhD student at UC 
 
 <font size="5"><b>Recent News</b></font>
 <br>
+
+<font size="4"><b>May 2026</b></font>
+I attended ACC and [presented on my work](https://nguyensteven01.github.io/talks/2026-ACC). As my first big controls conference, I had a lot of fun meeting new people and getting new ideas for research.
+
 <font size="4"><b>April 2026</b></font>
 I extended the work I did in my ACC paper to consider a more complex case of design optimization for a blended-wing-body aircraft and submitted my work to AIAA Journal.
 
@@ -41,7 +45,10 @@ I submitted some of my recent work on reachability metrics in design optimizatio
 In August, I got to visit the National Museum of the United States Air Force in Dayton, Ohio. This was part of a trip to the Air Force base there, where I presented on some of my recent research.
 
 ![Air Force Museum](/images/airforcemuseum.jpeg)
-![F-117 Nighthawk at the museum](/images/nighthawk.jpeg) ![Bockscar at the museum](/images/bockscar.jpeg)
+
+![F-117 Nighthawk at the museum](/images/nighthawk.jpeg)
+
+![Bockscar at the museum](/images/bockscar.jpeg)
 
 
 <font size="4"><b>March 2025</b></font>
