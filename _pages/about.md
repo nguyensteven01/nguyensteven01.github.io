@@ -32,6 +32,8 @@ Hello, my name is Steven Nguyen and I am currently a 3rd-year PhD student at UC 
 <font size="4"><b>May 2026</b></font>
 I attended ACC and [presented on my work](https://nguyensteven01.github.io/talks/2026-ACC). As my first big controls conference, I had a lot of fun meeting new people and getting new ideas for research.
 
+![Alligator in Louisiana](/images/gator.jpeg)
+
 <font size="4"><b>April 2026</b></font>
 I extended the work I did in my ACC paper to consider a more complex case of design optimization for a blended-wing-body aircraft and submitted my work to AIAA Journal.
 
