@@ -67,8 +67,8 @@ Service and leadership
 
 <!-- This will embed my CV and also provide a download link. -->
 
-<iframe src="https://docs.google.com/gview?url=https://github.com/nguyensteven01/nguyensteven01.github.io/raw/master/files/CV.pdf&embedded=true" 
+<iframe src="https://docs.google.com/gview?url=https://github.com/nguyensteven01/nguyensteven01.github.io/raw/master/files/CV/CV.pdf&embedded=true" 
 style="width:100%;height:1100px;" 
 frameborder="0"></iframe>
 
-[PDF copy of my CV](/files/CV.pdf)
+[PDF copy of my CV](/files/CV/CV.pdf)

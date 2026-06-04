@@ -6,8 +6,8 @@ permalink: /publications/vine_robot_paper
 excerpt: 'This paper is about the modeling, design, and testing of a novel, large-scale vine robot for industrial pipe inspection.'
 date: 2024-11-20
 venue: 'IEEE Robotics and Automation Magazine'
-paperurl: 'http://nguyensteven01.github.io/files/vine_robots_paper.pdf'
-bibtexurl: 'http://nguyensteven01.github.io/files/vine_robots.bib'
+paperurl: 'http://nguyensteven01.github.io/files/vine/vine_robots_paper.pdf'
+bibtexurl: 'http://nguyensteven01.github.io/files/vine/vine_robots.bib'
 citation: 'W. E. Heap et al., "Large-Scale Vine Robots for Industrial Inspection: Developing a New Framework to Overcome Limitations With Existing Inspection Methods," in IEEE Robotics & Automation Magazine, vol. 32, no. 3, pp. 64-75, Sept. 2025, doi: 10.1109/MRA.2024.3487326.'
 ---
 

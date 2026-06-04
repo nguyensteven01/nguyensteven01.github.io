@@ -6,9 +6,9 @@ permalink: /publications/pedestrian_braking
 excerpt: 'This paper is about an implementation of a pedestrian detection and braking scheme I applied to an autonomous vehicle during an NSF REU at UNLV.'
 date: 2022-11-14
 venue: '2022 IEEE International Conference on Vehicular Electronics and Safety'
-slidesurl: 'http://nguyensteven01.github.io/files/ICVES_presentation.pdf'
-paperurl: 'http://nguyensteven01.github.io/files/pedestrian_braking_paper.pdf'
-bibtexurl: 'http://nguyensteven01.github.io/files/pedestrian_braking.bib'
+slidesurl: 'http://nguyensteven01.github.io/files/icves/ICVES_presentation.pdf'
+paperurl: 'http://nguyensteven01.github.io/files/icves/pedestrian_braking_paper.pdf'
+bibtexurl: 'http://nguyensteven01.github.io/files/icves/pedestrian_braking.bib'
 citation: 'S. Nguyen, Z. Rahman and B. T. Morris, "Pedestrian Emergency Braking in Ten Weeks," 2022 IEEE International Conference on Vehicular Electronics and Safety (ICVES), Bogota, Colombia, 2022, pp. 1-6, doi: 10.1109/ICVES56941.2022.9987182'
 ---
 

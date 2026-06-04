@@ -6,9 +6,9 @@ permalink: /publications/reachability_design_opt_acc
 excerpt: 'This paper is about a sampling-based approach for reachability, applied to a design optimization problem for aircraft.'
 date: 2026-3-19
 venue: '2026 American Control Conference (ACC)'
-slidesurl: 'http://nguyensteven01.github.io/files/ACC_slides.pdf'
+slidesurl: 'http://nguyensteven01.github.io/files/ACC2026/ACC_slides.pdf'
 paperurl: 'https://arxiv.org/abs/2603.15865'
-bibtexurl: 'http://nguyensteven01.github.io/files/reachability_design_opt_acc.bib'
+bibtexurl: 'http://nguyensteven01.github.io/files/ACC2026/reachability_design_opt_acc.bib'
 citation: 'S. Nguyen, J. Cortes, B. Kramer, "Reachability Analysis for Design Optimization," 2026 American Control Conference (ACC), New Orleans, LA, 2026, pp. TBD, doi: TBD'
 ---
 
