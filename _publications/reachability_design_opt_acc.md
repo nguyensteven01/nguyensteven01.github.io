@@ -16,5 +16,5 @@ We present an approach to approximate reachable sets for linear systems with bou
 
 I presented this at the 2026 American Control Conference. 
 
-Read more about this [here](https://nguyensteven01.github.io/talks/2026-ACC).
+Read more about this [here](https://ieeexplore.ieee.org/document/11616303) and my talk [here](https://nguyensteven01.github.io/talks/2026-ACC).
 
