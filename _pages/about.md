@@ -13,7 +13,7 @@ redirect_from:
 
 <font size="5"><b>About me</b></font>
 
-Hello, my name is Steven Nguyen and I am currently a 3rd-year PhD student at UC San Diego (UCSD) studying control theory, advised by Professors [Boris Kramer](https://kramer.ucsd.edu) and [Jorge Cortes](http://terrano.ucsd.edu/jorge/). My research is related to topics like data-driven control design, reachability, and control theoretic perspectives for design optimization of aircraft. Before coming to UCSD, I received my B.S. in Mechanical Engineering from UC Santa Barbara, where I pursued undergraduate research studying monomial observables for Koopman operator theory. I have a [cat](https://nguyensteven01.github.io/cat).
+Hello, my name is Steven Nguyen and I am currently a 4th-year PhD student at UC San Diego (UCSD) studying control theory, advised by Professors [Boris Kramer](https://kramer.ucsd.edu) and [Jorge Cortes](http://terrano.ucsd.edu/jorge/). My research is related to topics like data-driven control design, reachability, and control theoretic perspectives for design optimization of aircraft. Before coming to UCSD, I received my B.S. in Mechanical Engineering from UC Santa Barbara, where I pursued undergraduate research studying monomial observables for Koopman operator theory. I have a [cat](https://nguyensteven01.github.io/cat).
 
 <font size="5"><b>Research Interests</b></font>
 
@@ -21,6 +21,7 @@ Hello, my name is Steven Nguyen and I am currently a 3rd-year PhD student at UC 
 - Lifting controllers for reduced order models to full order models
 - Reachability theory for aircraft
 - Control theoretic metrics for design optimization
+- Optimal control
 
 <!-- I come from the Bay Area in California and received my B.S. in Mechanical Engineering from UC Santa Barbara (UCSB). While I was an undergraduate student at UCSB, I explored research in the fields of fluid dynamics and materials science before discovering my interest in the study of dynamics and control. As a theoretically-inclined student, the rigorous mathematical formulations and solutions of engineering problems caught my attention immediately. This interest led me to pursue undergraduate research with Professor Igor Mezic, where I studied monomial observables for Koopman operator theory. -->
 
